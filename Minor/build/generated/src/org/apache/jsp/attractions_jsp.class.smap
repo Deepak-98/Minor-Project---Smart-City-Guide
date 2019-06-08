@@ -1,0 +1,28 @@
+SMAP
+attractions_jsp.java
+JSP
+*S JSP
+*F
++ 0 attractions.jsp
+attractions.jsp
++ 1 navigation.html
+navigation.html
++ 2 admin_nav.html
+admin_nav.html
+*L
+1,41:57
+42,4:99
+45,2:103
+1#1,43:105
+46#0,2:147
+48,2:150
+49,2:152
+1#2,51:154
+50#0,2:204
+52,4:207
+1#1,43:211
+56#0,2:254
+57,2:256
+59,29:259
+87,4:288
+*E

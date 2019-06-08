@@ -1,0 +1,26 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 navigation.html
+navigation.html
++ 2 admin_nav.html
+admin_nav.html
+*L
+1,15:50
+16,5:66
+20,2:71
+1#1,41:73
+21#0,2:113
+23,2:116
+24,2:118
+1#2,50:120
+25#0,2:169
+27,4:172
+1#1,41:176
+31#0,5:217
+35,17:222
+*E

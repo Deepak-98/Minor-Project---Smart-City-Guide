@@ -1,0 +1,18 @@
+SMAP
+login_jsp.java
+JSP
+*S JSP
+*F
++ 0 login.jsp
+login.jsp
++ 1 navigation.html
+navigation.html
+*L
+1,38:53
+1#1,41:91
+38#0,2:131
+40,4:134
+43,24:138
+67,32:163
+98,13:195
+*E

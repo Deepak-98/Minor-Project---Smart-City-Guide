@@ -1,0 +1,30 @@
+SMAP
+accomodation_jsp.java
+JSP
+*S JSP
+*F
++ 0 accomodation.jsp
+accomodation.jsp
++ 1 navigation.html
+navigation.html
++ 2 admin_nav.html
+admin_nav.html
+*L
+1,41:57
+42,4:99
+45,2:103
+1#1,45:105
+46#0,2:149
+48,2:152
+49,2:154
+1#2,53:156
+50#0,2:208
+52,4:211
+1#1,45:215
+56#0,2:260
+57,12:262
+69,35:275
+103,3:310
+106:313,3
+107,6:316
+*E

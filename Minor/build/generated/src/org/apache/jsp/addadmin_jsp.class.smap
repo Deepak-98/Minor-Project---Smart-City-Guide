@@ -1,0 +1,18 @@
+SMAP
+addadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 addadmin.jsp
+addadmin.jsp
++ 1 admin_nav.html
+admin_nav.html
+*L
+1,38:53
+1#1,50:91
+38#0,2:140
+40,5:143
+44,54:148
+98,36:203
+133,5:239
+*E
